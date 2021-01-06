@@ -1,0 +1,4 @@
+21:50:56.212 [main] DEBUG Bpack.Demo1 - I am debugging
+21:50:56.217 [main] INFO  Bpack.Demo1 - Object is present
+21:50:56.217 [main] ERROR Bpack.Demo1 - Object is not present
+21:50:56.217 [main] FATAL Bpack.Demo1 - this is fatal
